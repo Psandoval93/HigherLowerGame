@@ -1,4 +1,4 @@
-# -HigherLowerGame
+# -HigherLowerGame (Python3 Language)
 Higher/Lower Game Description
 This game is based on the factors of an individual thinking of a number and another individual guessing the number. While the individual is attempting to guess the number
 the individual that has a number picked is telling the person guessing ifthe number they are thinking of is higher or lower then the number guessed. In the case of this program the
