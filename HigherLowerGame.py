@@ -17,7 +17,10 @@ while lower > upper:
 
 # Assigning variable for number to win game
 rand_num = random.randint(lower, upper)
+
+# Assigning variable in order to quit game
 user_quits = 00
+
 # Receive user input and assigning to variable for guess at winning number
 user_guess = int(input('What is your guess?'))
 
